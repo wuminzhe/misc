@@ -17,10 +17,10 @@ Darwinia Bridge Message Delivery Framework
 ## components
 
 * plugin contracts
-    * https://github.com/darwinia-network/darwinia-bridges-sol
+  https://github.com/darwinia-network/darwinia-bridges-sol  
 
 * substrate pallets
-    * https://github.com/darwinia-network/darwinia-bridges-substrate/tree/main/modules
+  https://github.com/darwinia-network/darwinia-bridges-substrate/tree/main/modules  
     * grandpa
     * messages
     * dispatch
@@ -30,7 +30,8 @@ Darwinia Bridge Message Delivery Framework
 
 * sdk
 
-## Cross-chain capabilities that the framework can support in the near future
+## Cross-chain capabilities 
+Cross-chain capabilities that the framework can support in the near future.  
 
 ### substrate (grandpa) <> ethereum 1.0
 
