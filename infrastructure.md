@@ -52,10 +52,9 @@ Darwinia Bridge Message Delivery Framework
 * darwinia <> crab
 
 2. test bridges
-* darwinia <> pangoro
-* crab <> pangolin
-* pangolin <> pangoro
 * pangolin <> ropsten
+* pangolin-pangolinparachain-rococo
+* pangolin <> pangoro
 * pangoro <> chapel
 
 ## links
