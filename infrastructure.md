@@ -10,23 +10,23 @@ a cross-chain message service provider.
 ## architechture
 
 dapps(helix, cross-chain swaps, ...)  
-bridges
+bridges  
 Darwinia Bridge Message Delivery Framework  
 
 
 ## components
 
-* plugin contracts
+* plugin contracts  
   https://github.com/darwinia-network/darwinia-bridges-sol  
 
-* substrate pallets
+* substrate pallets  
   https://github.com/darwinia-network/darwinia-bridges-substrate/tree/main/modules  
     * grandpa
     * messages
     * dispatch
     
-* relayer
-    * https://github.com/darwinia-network/bridger
+* relayer  
+  https://github.com/darwinia-network/bridger
 
 * sdk
 
