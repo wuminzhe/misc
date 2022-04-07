@@ -32,14 +32,7 @@ Darwinia Bridge Message Delivery Framework
 
 * sdk
 
-## products
-
-* darwinia chain
-* crab chain
-* crab parachain
-* apps
-
-## scenarios
+## Cross-chain capabilities that the framework can support in the near future
 
 ### substrate (grandpa) <> ethereum 1.0
 
@@ -49,6 +42,17 @@ Darwinia Bridge Message Delivery Framework
 
 1. substrate (grandpa) <> ethereum 2.0
 2. substrate (grandpa) <> binance smart chain
+
+## products
+
+### bridges
+
+* crab <> crab parachain <> kusama
+* polkadot <> ethereum
+* darwinia <> pangoro
+* crab <> pangolin
+* pangolin <> pangoro
+
 
 ## links
 https://www.notion.so/itering/Medium-2022-02-08-How-to-Develop-a-Substrate-to-Substrate-Bridge-b84697f3412c46cb963372829af3f6c0
