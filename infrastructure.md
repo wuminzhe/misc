@@ -10,9 +10,7 @@ a cross-chain message service provider.
 ## architechture
 
 dapps(helix, cross-chain swaps, ...)  
- ↓           |        
-bridges      |  
- ↓           ↓  
+bridges
 Darwinia Bridge Message Delivery Framework  
 
 
@@ -47,16 +45,22 @@ Darwinia Bridge Message Delivery Framework
 
 ### bridges
 
-* crab <> crab parachain <> kusama
+1. live bridges
 * polkadot <> ethereum
+* crab <> crab parachain <> kusama
+* darwinia <> bsc
+* darwinia <> crab
+
+2. test bridges
 * darwinia <> pangoro
 * crab <> pangolin
 * pangolin <> pangoro
-
+* pangolin <> ropsten
+* pangoro <> chapel
 
 ## links
-https://www.notion.so/itering/Medium-2022-02-08-How-to-Develop-a-Substrate-to-Substrate-Bridge-b84697f3412c46cb963372829af3f6c0
-https://www.notion.so/itering/Medium-2021-11-19-The-New-Message-Protocol-for-the-Ethereum-Darwinia-Bridge-e9e0e4b8a45d42a293328f1b319e80cf
-https://darwinianetwork.medium.com/darwinia-security-design-strategy-and-philosophy-update-f66d3406f652
-https://chain.link
+https://www.notion.so/itering/Medium-2022-02-08-How-to-Develop-a-Substrate-to-Substrate-Bridge-b84697f3412c46cb963372829af3f6c0  
+https://www.notion.so/itering/Medium-2021-11-19-The-New-Message-Protocol-for-the-Ethereum-Darwinia-Bridge-e9e0e4b8a45d42a293328f1b319e80cf  
+https://darwinianetwork.medium.com/darwinia-security-design-strategy-and-philosophy-update-f66d3406f652  
+https://chain.link  
 
