@@ -7,14 +7,14 @@ a cross-chain message service provider.
 * easy & seamless cross-chain
 * flexible
 
-## architechture
+## Cross-chain message flow
 
+1. architechture
 dapps(helix, cross-chain swaps, ...)  
 bridges  
 Darwinia Bridge Message Delivery Framework  
 
-
-## components
+## framework components
 
 * plugin contracts  
   https://github.com/darwinia-network/darwinia-bridges-sol  
@@ -57,6 +57,10 @@ Cross-chain capabilities that the framework can support in the near future.
 * pangolin-pangolinparachain-rococo
 * pangolin <> pangoro
 * pangoro <> chapel
+
+## Use Cases
+
+## Guides
 
 ## links
 https://www.notion.so/itering/Medium-2022-02-08-How-to-Develop-a-Substrate-to-Substrate-Bridge-b84697f3412c46cb963372829af3f6c0  
