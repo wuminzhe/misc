@@ -7,6 +7,15 @@ a cross-chain message service provider.
 * easy & seamless cross-chain
 * flexible
 
+## architechture
+
+dapps(helix, cross-chain swaps, ...)
+ ↓           |        
+bridges      |
+ ↓           ↓
+Darwinia Bridge Message Delivery Framework
+
+
 ## components
 
 * plugin contracts
@@ -34,13 +43,12 @@ a cross-chain message service provider.
 
 ### substrate (grandpa) <> ethereum 1.0
 
-### substrate (grandpa) <> substrate chain (grandpa)
+### substrate (grandpa) <> substrate (grandpa)
 
 ### substrate (grandpa) <> evm compatiable chain (pos)
 
 1. substrate (grandpa) <> ethereum 2.0
 2. substrate (grandpa) <> binance smart chain
-
 
 ## links
 https://www.notion.so/itering/Medium-2022-02-08-How-to-Develop-a-Substrate-to-Substrate-Bridge-b84697f3412c46cb963372829af3f6c0
