@@ -9,11 +9,11 @@ a cross-chain message service provider.
 
 ## architechture
 
-dapps(helix, cross-chain swaps, ...)
+dapps(helix, cross-chain swaps, ...)  
  ↓           |        
-bridges      |
- ↓           ↓
-Darwinia Bridge Message Delivery Framework
+bridges      |  
+ ↓           ↓  
+Darwinia Bridge Message Delivery Framework  
 
 
 ## components
