@@ -69,10 +69,10 @@ Darwinia Bridge Message Delivery Framework
 
 
 ## links
-https://www.notion.so/itering/Medium-2022-02-08-How-to-Develop-a-Substrate-to-Substrate-Bridge-b84697f3412c46cb963372829af3f6c0  
-https://www.notion.so/itering/Medium-2021-11-19-The-New-Message-Protocol-for-the-Ethereum-Darwinia-Bridge-e9e0e4b8a45d42a293328f1b319e80cf  
-https://darwinianetwork.medium.com/darwinia-security-design-strategy-and-philosophy-update-f66d3406f652  
-https://chain.link  
-https://github.com/darwinia-network/bridger/blob/master/docs/fee-market-strategy.md   
-https://www.notion.so/itering/Medium-2021-10-22-Darwinia-Relayer-Incentive-Scheme-Fee-Market-4939fbb44db441c4abc18571a235a56a  
-
+* https://www.notion.so/itering/Medium-2022-02-08-How-to-Develop-a-Substrate-to-Substrate-Bridge-b84697f3412c46cb963372829af3f6c0  
+* https://www.notion.so/itering/Medium-2021-11-19-The-New-Message-Protocol-for-the-Ethereum-Darwinia-Bridge-e9e0e4b8a45d42a293328f1b319e80cf  
+* https://darwinianetwork.medium.com/darwinia-security-design-strategy-and-philosophy-update-f66d3406f652  
+* https://chain.link  
+* https://github.com/darwinia-network/bridger/blob/master/docs/fee-market-strategy.md   
+* https://www.notion.so/itering/Medium-2021-10-22-Darwinia-Relayer-Incentive-Scheme-Fee-Market-4939fbb44db441c4abc18571a235a56a  
+* https://layerzero.network/
